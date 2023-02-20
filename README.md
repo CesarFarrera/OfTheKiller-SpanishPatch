@@ -2,6 +2,10 @@
 Parches de idioma para los juegos "... Of The Killer", reemplazan todos los textos al español.
 
 De momento sólo está traducido Voice of the Killer, espero poder traer un nuevo parche cada uno o dos meses.
+-----------------------------------------------------------------------------------------------------------------------
+
+Original of the Killer series, by garmentdistrict A.K.A. TheCatamites
+https://gamejolt.com/@garmentdistrict/games
 
 Traducido/localizado por: César Farrera (ShizaFM) (ShizaDecaf)
 https://linktr.ee/shizafm
